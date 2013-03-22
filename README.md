@@ -28,7 +28,8 @@ Pour contribuer :
 
 ### Je veux amender une fiche
 
-0. Forker
+0. Aller sur la fiche dans le dépôt depuis l'interface web.
+1. Cliquer sur "edit" -- automatiquement, ça forke le dépôt.
 1. Modifier la fiche
 2. Enregistrer
 3. Proposer une pull-request
