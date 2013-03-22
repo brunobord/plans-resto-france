@@ -12,7 +12,7 @@ On ne partage **que** les bons plans. On n'est pas là pour faire de la critique
 
 ## Règles
 
-*NB* : on peut faire toutes ces manoeuvres depuis l'interface web de Github. C'est magique.
+*NB* : on peut faire toutes ces manoeuvres depuis l'interface web de Github. C'est magique. [Créer les fichiers, les répertoires, les déplacer...](https://github.com/blog/1436-moving-and-renaming-files-on-github). Pour les forks et les pull-requests, c'est carrément des boutons gros "comme ça".
 
 Pour contribuer :
 
