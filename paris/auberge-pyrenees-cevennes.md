@@ -1,6 +1,7 @@
 #Auberge Pyrénées Cévennes
 
   106 rue Folie Méricourt
+  
   75011 Paris
 
 Tout prêt de République, l'Auberge Pyrénées Cévennes est un havre de bonheur culinaire 'comme à la maison' dans Paris. 
