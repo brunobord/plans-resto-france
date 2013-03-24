@@ -6,3 +6,5 @@
 Sans aucun doute la meilleure adresse autour de la place de la Nation.
 
 Excellente cuisine de bistrot, bons produits, menu midi à 14€, service agréable...
+
+Fermé le dimanche
