@@ -1,4 +1,4 @@
-#Au Vieux Quimper
+# Au Vieux Quimper
 
 Adresse :  
 
@@ -7,7 +7,7 @@ Adresse :
 
 Téléphone : 02 40 35 63 99  
 
-Horaires:  
+Horaires:
 
     lun.-ven. 11:30 - 14:30  
     lun.-jeu. 18:30 - 23:00  
