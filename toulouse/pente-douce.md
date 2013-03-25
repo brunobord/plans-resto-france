@@ -1,8 +1,8 @@
 #La Pente Douce
 
-  19, avenue de Grande-Bretagne
-  31300 Toulouse
-  05 61 49 51 13
+    19, avenue de Grande-Bretagne
+    31300 Toulouse
+    05 61 49 51 13
 
 Une table d'hôtes bien cachée dans le quartier de la Patte d'Oie, pas de devanture, pas d'enseigne. 
 Le chef fait sa popotte devant vos yeux, il y a généralement 2 entrées et 2 plats et c'est délicieux.
