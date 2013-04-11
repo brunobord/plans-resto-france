@@ -10,6 +10,8 @@ Partager ses bons plans resto, de manière plus ou moins décentralisée (on peu
 
 On ne partage **que** les bons plans. On n'est pas là pour faire de la critique culinaire, on veut juste échanger les bonnes adresses. Et puis, la délation, c'est mal.
 
+Merci de ne proposer **que** les restaurants qui seraient **des valeurs sûres** (dans lesquels vous êtes allés plus d'une fois, par exemple) pour être sûr d'avoir affaire à des **vrais** bons plans.
+
 ## Règles
 
 *NB* : on peut faire toutes ces manoeuvres depuis l'interface web de Github. C'est magique. [Créer les fichiers, les répertoires, les déplacer...](https://github.com/blog/1436-moving-and-renaming-files-on-github). Pour les forks et les pull-requests, c'est carrément des boutons gros "comme ça".
